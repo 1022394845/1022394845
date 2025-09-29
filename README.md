@@ -1,16 +1,20 @@
-## Hi there 👋
+# 个人介绍
 
-<!--
-**1022394845/1022394845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 专业知识
 
-Here are some ideas to get you started:
+- 熟悉 Vue 前端开发框架，结合 Pinia 管理状态、使用 Element Plus 搭建界面、利用 ECharts 实现数据可视化，通过 Vue Router 管理页面路由，使用 axios 与后端进行数据对接。
+- 熟悉 uni-app 框架实现多端开发，并使用 uniCloud 云开发实现部分后端业务。
+- 熟悉 Node.js 框架，结合 express 模块与 Mysql 模块实现数据库后端业务。
+- 熟悉 Vite 构建工具，具有项目打包优化经验，例如 CDN 引入、手动分包等，大幅提升首屏加载速度与流畅路由切换。
+- 良好的编码风格，熟悉使用 Git 进行项目版本管理，熟悉 JSDoc 文档注释，充分使用 Vue3 组合式API创建公共组件、自定义指令、Hooks，大幅优化项目可维护性和可复用性。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 兴趣技术
+
+- 前端开发
+
+## 项目经验
+
+- 多端一体化电商平台——QingFengStore
+- 智能学习助手平台
+- 博客平台——SOSD-blog
+- ……
